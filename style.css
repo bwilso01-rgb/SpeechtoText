@@ -1,0 +1,100 @@
+
+
+        body {
+
+        margin: 10px;
+        background-color: beige;
+        background-image: url('pixelbackground.jpg');
+        cursor: url(CURORSmiley.svg.png), auto;
+          background-position: center;
+         background-repeat: no-repeat;
+            background-size: cover;
+        }
+
+        
+        #overlay{
+            font-size: 75px;
+            border-radius: 10px;
+            background-color: green;
+            margin-bottom: 400px;
+            
+
+            
+
+
+        }
+
+        #scroll{
+
+            color: limegreen
+        }
+
+        .keychain {
+            width: 400px;
+            position: fixed;
+            bottom: 6%;
+            right: 6%;
+            border-radius: 40px;
+            
+           
+
+        }
+
+        #startBtn {
+            font-size: 50px;
+            font-family: 'Roboto', sans-serif;
+            color: orange;
+            border-radius: 10px;
+            background-color: antiquewhite;
+
+        }
+
+      
+
+        #startingsentence{
+            font-size: 80px;
+            color: yellowgreen;
+            background-color: lightyellow;
+            border-radius: 20px;
+        }
+
+        #phrase1 {
+            font-size: 60px;
+            color: purple;
+             font-family: "Roboto Condensed", sans-serif;
+            font-optical-sizing: auto;
+            font-weight: 1000;
+            font-style: italic;
+            
+        
+        }
+
+         #phrase2{
+            font-size: 60px;
+            color: blue;
+             font-family: "Roboto Condensed", sans-serif;
+            font-optical-sizing: auto;
+            font-weight: 1000;
+            font-style: italic;
+         }
+        
+
+        #phrase3 {
+            font-size: 60px;
+            color: yellow;
+             font-family: "Roboto Condensed", sans-serif;
+            font-optical-sizing: auto;
+            font-weight: 1000;
+            font-style: italic;
+        }
+
+         #phrase4{
+            font-size: 60px;
+            color: orangered;
+             font-family: "Roboto Condensed", sans-serif;
+            font-optical-sizing: auto;
+            font-weight: 1000;
+            font-style: italic;
+            
+        }
+        
